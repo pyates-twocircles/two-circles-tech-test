@@ -3,7 +3,7 @@
 ## Build a Live Sports Scoring App  
 
 ### Summary  
-The task is to build a live sports scoring iOS app that displays ongoing matches with real-time scores and match details, such as:  
+The task is to build a live sports scoring app that displays ongoing matches with real-time scores and match details, such as:  
 - Team names  
 - Current score  
 - Match status  
