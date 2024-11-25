@@ -14,12 +14,12 @@ Feel free to spend as much or as little time on the exercise as you like, as lon
 ---
 
 ### Requirements  
-1. Display a list of ongoing sports matches with real-time scores.  
+1. Display a list of ongoing sports matches with real-time scores using the API here: https://pyates-twocircles.github.io/two-circles-tech-test/fixtures.json
 2. Include details for each match:  
    - Team names  
    - Current score  
    - Match status  
-   - Time elapsed  
+   - Time elapsed
 3. Allow users to tap on a match to view detailed stats, such as:  
    - Player performance  
    - Events like goals or fouls  
