@@ -27,12 +27,16 @@ There are 3 different match states available in the response:
 
 ![Match Detail](https://pyates-twocircles.github.io/two-circles-tech-test/match-detail.png)
 
-As there is only one match detail response, all matches will transition to the same match centre regardless of which match is tapped. However be prepared to discuss how you would transfer state from one screen to the next (such as match id).
-To display the goal timeline filter the events array by the key type 'G', you will then need to lookup the player name from the teamLists using the personId from the event list.
+- As there is only one match detail response, all matches will transition to the same match centre regardless of which match is tapped. However be prepared to discuss how you would transfer state from one screen to the next (such as match id).
+- To display the goal timeline filter the events array by the key type 'G', you will then need to lookup the player name from the teamLists using the personId from the event list.
 
 - Implement real-time updates using periodic polling.
 
-Feel free to improve the design and add further details if you wish and have the time
+Feel free to improve the design and add further details if you wish and have the time. Make as many assumptions as you need, we can discuss as part of the review process.
+
+### Technical Requirements
+- Feel free to use any frameworks, however be prepared to justify why you need them
+- Use the latest features available from your operating system / toolset / language, there are no minimum support requirements
 
 ### Delivery  
 To avoid bounced emails, please submit your results using either:  
