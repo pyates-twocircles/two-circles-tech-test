@@ -37,8 +37,7 @@ Feel free to improve the design and add further details if you wish and have the
 ### Technical Requirements
 - Feel free to use any frameworks, however be prepared to justify why you need them. The focus should be on pure engineering rather than a framework for everything approach.
 - Use the latest features available from your operating system / toolset / language, there are no minimum support requirements.
-- Clean architecture principles
-- Unit Tests
+- Unit Tests.
 
 ### Evaluation Criteria
 - Code quality and readability.
