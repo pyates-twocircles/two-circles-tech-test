@@ -15,7 +15,7 @@ Feel free to spend as much or as little time on the exercise as you like, as lon
 
 ### Requirements  
 1. Display a list of ongoing sports matches with real-time scores using the API here: https://pyates-twocircles.github.io/two-circles-tech-test/fixtures.json
-!(fixture-list.png)
+!(https://github.com/pyates-twocircles/two-circles-tech-test/fixture-list.png)
 2. Include details for each match:  
    - Team names  
    - Current score  
