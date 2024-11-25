@@ -23,6 +23,8 @@ There are 3 different match states available in the response:
 2. Middle design - In Progress - Status: I
 3. Bottom design - Complete - Status: C
 
+- To load the team badges use the url: https://pyates-twocircles.github.io/two-circles-tech-test/images/<teamid>.png
+
 - Allow users to tap on a match to view a detail screen using the API here and following design below: https://pyates-twocircles.github.io/two-circles-tech-test/match.json
 
 ![Match Detail](https://pyates-twocircles.github.io/two-circles-tech-test/match-detail.png)
