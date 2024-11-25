@@ -14,20 +14,25 @@ Feel free to spend as much or as little time on the exercise as you like, as lon
 ---
 
 ### Requirements  
-Display a list of ongoing sports matches with real-time scores using the API here and following the design below: https://pyates-twocircles.github.io/two-circles-tech-test/fixtures.json
+- Display a list of ongoing sports matches with real-time scores using the API here and following the design below: https://pyates-twocircles.github.io/two-circles-tech-test/fixtures.json
+
 ![Fixture List](https://pyates-twocircles.github.io/two-circles-tech-test/fixture-list.png)
 
-3. Allow users to tap on a match to view detailed stats, such as:  
-   - Player performance  
-   - Events like goals or fouls  
-4. Implement real-time updates using periodic polling.  
+There are 3 different match states available in the response:
+1. Top design - Upcoming - Status: U
+2. Middle design - In Progress - Status: I
+3. Bottom design - Complete - Status: C
 
----
+- Allow users to tap on a match to view a detail screen using the API here and following design below: https://pyates-twocircles.github.io/two-circles-tech-test/match.json
 
-### Bonus Features  
-- Add a search bar to filter matches by team or league.  
+![Match Detail](https://pyates-twocircles.github.io/two-circles-tech-test/match-detail.png)
 
----
+As there is only one match detail response, all matches will transition to the same match centre regardless of which match is tapped. However be prepared to discuss how you would transfer state from one screen to the next (such as match id).
+To display the goal timeline filter the events array by the key type 'G', you will then need to lookup the player name from the teamLists using the personId from the event list.
+
+- Implement real-time updates using periodic polling.
+
+Feel free to improve the design and add further details if you wish and have the time
 
 ### Delivery  
 To avoid bounced emails, please submit your results using either:  
