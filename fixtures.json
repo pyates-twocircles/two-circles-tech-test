@@ -1,0 +1,630 @@
+[
+{
+                "kickoff": {
+                    "completeness": 3,
+                    "millis": 1732564800000,
+                    "label": "Mon 25 Nov 2024, 20:00 GMT"
+                },
+                "teams": [
+                    {
+                        "team": {
+                            "name": "Newcastle United",
+                            "club": {
+                                "name": "Newcastle United",
+                                "abbr": "NEW",
+                                "id": 23
+                            },
+                            "teamType": "FIRST",
+                            "shortName": "Newcastle",
+                            "id": 23
+                        }
+                    },
+                    {
+                        "team": {
+                            "name": "West Ham United",
+                            "club": {
+                                "name": "West Ham United",
+                                "abbr": "WHU",
+                                "id": 25
+                            },
+                            "teamType": "FIRST",
+                            "shortName": "West Ham",
+                            "id": 25
+                        }
+                    }
+                ],
+                "ground": {
+                    "name": "St. James' Park",
+                    "city": "Newcastle",
+                    "source": "OPTA",
+                    "id": 27
+                },
+                "status": "U",
+                "id": 115945
+            },
+        {
+            "kickoff": {
+                "completeness": 3,
+                "millis": 1732465800000,
+                "label": "Sun 24 Nov 2024, 16:30 GMT"
+            },
+            "teams": [
+                {
+                    "team": {
+                        "name": "Ipswich Town",
+                        "club": {
+                            "name": "Ipswich Town",
+                            "shortName": "Ipswich",
+                            "abbr": "IPS",
+                            "id": 8
+                        },
+                        "teamType": "FIRST",
+                        "shortName": "Ipswich",
+                        "id": 8,
+                        "altIds": {
+                            "opta": "t40"
+                        }
+                    },
+                    "score": 1
+                },
+                {
+                    "team": {
+                        "name": "Manchester United",
+                        "club": {
+                            "name": "Manchester United",
+                            "shortName": "Man Utd",
+                            "abbr": "MUN",
+                            "id": 12
+                        },
+                        "teamType": "FIRST",
+                        "shortName": "Man Utd",
+                        "id": 12,
+                        "altIds": {
+                            "opta": "t1"
+                        }
+                    },
+                    "score": 1
+                }
+            ],
+            "ground": {
+                "name": "Portman Road",
+                "city": "Ipswich",
+                "source": "OPTA",
+                "id": 66
+            },
+            "status": "C",
+            "attendance": 30017,
+            "clock": {
+                "secs": 5700,
+                "label": "90 +5'00"
+            },
+            "goals": [
+                {
+                    "personId": 13565,
+                    "assistId": 69176,
+                    "clock": {
+                        "secs": 120,
+                        "label": "02'00"
+                    },
+                    "phase": "1",
+                    "type": "G",
+                    "description": "G"
+                },
+                {
+                    "personId": 98300,
+                    "assistId": 8201,
+                    "clock": {
+                        "secs": 2580,
+                        "label": "43'00"
+                    },
+                    "phase": "1",
+                    "type": "G",
+                    "description": "G"
+                }
+            ],
+            "id": 115942
+        },
+        {
+            "kickoff": {
+                "completeness": 3,
+                "millis": 1732456800000,
+                "label": "Sun 24 Nov 2024, 14:00 GMT"
+            },
+            "teams": [
+                {
+                    "team": {
+                        "name": "Southampton",
+                        "club": {
+                            "name": "Southampton",
+                            "shortName": "Southampton",
+                            "abbr": "SOU",
+                            "id": 20
+                        },
+                        "teamType": "FIRST",
+                        "shortName": "Southampton",
+                        "id": 20,
+                        "altIds": {
+                            "opta": "t20"
+                        }
+                    },
+                    "score": 2
+                },
+                {
+                    "team": {
+                        "name": "Liverpool",
+                        "club": {
+                            "name": "Liverpool",
+                            "shortName": "Liverpool",
+                            "abbr": "LIV",
+                            "id": 10
+                        },
+                        "teamType": "FIRST",
+                        "shortName": "Liverpool",
+                        "id": 10,
+                        "altIds": {
+                            "opta": "t14"
+                        }
+                    },
+                    "score": 3
+                }
+            ],
+            "ground": {
+                "name": "St. Mary's Stadium",
+                "city": "Southampton",
+                "source": "OPTA",
+                "id": 48
+            },
+            "status": "I",
+            "attendance": 31278,
+            "clock": {
+                "secs": 3000,
+                "label": "50'"
+            },
+            "goals": [
+                {
+                    "personId": 33231,
+                    "clock": {
+                        "secs": 1800,
+                        "label": "30'00"
+                    },
+                    "phase": "1",
+                    "type": "G",
+                    "description": "G"
+                },
+                {
+                    "personId": 9199,
+                    "clock": {
+                        "secs": 2520,
+                        "label": "42'00"
+                    },
+                    "phase": "1",
+                    "type": "G",
+                    "description": "G"
+                },
+                {
+                    "personId": 119072,
+                    "assistId": 9199,
+                    "clock": {
+                        "secs": 3360,
+                        "label": "56'00"
+                    },
+                    "phase": "2",
+                    "type": "G",
+                    "description": "G"
+                },
+                {
+                    "personId": 5178,
+                    "assistId": 49909,
+                    "clock": {
+                        "secs": 3900,
+                        "label": "65'00"
+                    },
+                    "phase": "2",
+                    "type": "G",
+                    "description": "G"
+                },
+                {
+                    "personId": 5178,
+                    "clock": {
+                        "secs": 4980,
+                        "label": "83'00"
+                    },
+                    "phase": "2",
+                    "type": "P",
+                    "description": "P"
+                }
+            ],
+            "id": 115946
+        },
+        {
+            "kickoff": {
+                "completeness": 3,
+                "millis": 1732383000000,
+                "label": "Sat 23 Nov 2024, 17:30 GMT"
+            },
+            "teams": [
+                {
+                    "team": {
+                        "name": "Manchester City",
+                        "club": {
+                            "name": "Manchester City",
+                            "shortName": "Man City",
+                            "abbr": "MCI",
+                            "id": 11
+                        },
+                        "teamType": "FIRST",
+                        "shortName": "Man City",
+                        "id": 11,
+                        "altIds": {
+                            "opta": "t43"
+                        }
+                    },
+                    "score": 0
+                },
+                {
+                    "team": {
+                        "name": "Tottenham Hotspur",
+                        "club": {
+                            "name": "Tottenham Hotspur",
+                            "shortName": "Spurs",
+                            "abbr": "TOT",
+                            "id": 21
+                        },
+                        "teamType": "FIRST",
+                        "shortName": "Spurs",
+                        "id": 21,
+                        "altIds": {
+                            "opta": "t6"
+                        }
+                    },
+                    "score": 4
+                }
+            ],
+            "ground": {
+                "name": "Etihad Stadium",
+                "city": "Manchester",
+                "source": "OPTA",
+                "id": 457
+            },
+            "status": "C",
+            "clock": {
+                "secs": 5700,
+                "label": "90 +5'00"
+            },
+            "goals": [
+                {
+                    "personId": 8456,
+                    "assistId": 49316,
+                    "clock": {
+                        "secs": 780,
+                        "label": "13'00"
+                    },
+                    "phase": "1",
+                    "type": "G",
+                    "description": "G"
+                },
+                {
+                    "personId": 8456,
+                    "assistId": 4999,
+                    "clock": {
+                        "secs": 1200,
+                        "label": "20'00"
+                    },
+                    "phase": "1",
+                    "type": "G",
+                    "description": "G"
+                },
+                {
+                    "personId": 32229,
+                    "assistId": 10443,
+                    "clock": {
+                        "secs": 3120,
+                        "label": "52'00"
+                    },
+                    "phase": "2",
+                    "type": "G",
+                    "description": "G"
+                },
+                {
+                    "personId": 49374,
+                    "assistId": 23599,
+                    "clock": {
+                        "secs": 5580,
+                        "label": "90 +3'00"
+                    },
+                    "phase": "2",
+                    "type": "G",
+                    "description": "G"
+                }
+            ],
+            "id": 115944
+        },
+        {
+            "kickoff": {
+                "completeness": 3,
+                "millis": 1732374000000,
+                "label": "Sat 23 Nov 2024, 15:00 GMT"
+            },
+            "teams": [
+                {
+                    "team": {
+                        "name": "Arsenal",
+                        "club": {
+                            "name": "Arsenal",
+                            "shortName": "Arsenal",
+                            "abbr": "ARS",
+                            "id": 1
+                        },
+                        "teamType": "FIRST",
+                        "shortName": "Arsenal",
+                        "id": 1,
+                        "altIds": {
+                            "opta": "t3"
+                        }
+                    },
+                    "score": 3
+                },
+                {
+                    "team": {
+                        "name": "Nottingham Forest",
+                        "club": {
+                            "name": "Nottingham Forest",
+                            "shortName": "Nott'm Forest",
+                            "abbr": "NFO",
+                            "id": 15
+                        },
+                        "teamType": "FIRST",
+                        "shortName": "Nottm Forest",
+                        "id": 15,
+                        "altIds": {
+                            "opta": "t17"
+                        }
+                    },
+                    "score": 0
+                }
+            ],
+            "ground": {
+                "name": "Emirates Stadium",
+                "city": "London",
+                "source": "OPTA",
+                "id": 52
+            },
+            "status": "C",
+            "attendance": 60298,
+            "clock": {
+                "secs": 5760,
+                "label": "90 +6'00"
+            },
+            "goals": [
+                {
+                    "personId": 49481,
+                    "assistId": 11419,
+                    "clock": {
+                        "secs": 900,
+                        "label": "15'00"
+                    },
+                    "phase": "1",
+                    "type": "G",
+                    "description": "G"
+                },
+                {
+                    "personId": 4936,
+                    "assistId": 49481,
+                    "clock": {
+                        "secs": 3120,
+                        "label": "52'00"
+                    },
+                    "phase": "2",
+                    "type": "G",
+                    "description": "G"
+                },
+                {
+                    "personId": 114566,
+                    "assistId": 4316,
+                    "clock": {
+                        "secs": 5160,
+                        "label": "86'00"
+                    },
+                    "phase": "2",
+                    "type": "G",
+                    "description": "G"
+                }
+            ],
+            "id": 115937
+        },
+        {
+            "kickoff": {
+                "completeness": 3,
+                "millis": 1732374000000,
+                "label": "Sat 23 Nov 2024, 15:00 GMT"
+            },
+            "teams": [
+                {
+                    "team": {
+                        "name": "Aston Villa",
+                        "club": {
+                            "name": "Aston Villa",
+                            "shortName": "Aston Villa",
+                            "abbr": "AVL",
+                            "id": 2
+                        },
+                        "teamType": "FIRST",
+                        "shortName": "Aston Villa",
+                        "id": 2,
+                        "altIds": {
+                            "opta": "t7"
+                        }
+                    },
+                    "score": 2
+                },
+                {
+                    "team": {
+                        "name": "Crystal Palace",
+                        "club": {
+                            "name": "Crystal Palace",
+                            "shortName": "Crystal Palace",
+                            "abbr": "CRY",
+                            "id": 6
+                        },
+                        "teamType": "FIRST",
+                        "shortName": "Crystal Palace",
+                        "id": 6,
+                        "altIds": {
+                            "opta": "t31"
+                        }
+                    },
+                    "score": 2
+                }
+            ],
+            "ground": {
+                "name": "Villa Park",
+                "city": "Birmingham",
+                "source": "OPTA",
+                "id": 1986
+            },
+            "status": "C",
+            "clock": {
+                "secs": 5820,
+                "label": "90 +7'00"
+            },
+            "goals": [
+                {
+                    "personId": 49796,
+                    "assistId": 20874,
+                    "clock": {
+                        "secs": 240,
+                        "label": "04'00"
+                    },
+                    "phase": "1",
+                    "type": "G",
+                    "description": "G"
+                },
+                {
+                    "personId": 8658,
+                    "assistId": 51423,
+                    "clock": {
+                        "secs": 2160,
+                        "label": "36'00"
+                    },
+                    "phase": "1",
+                    "type": "G",
+                    "description": "G"
+                },
+                {
+                    "personId": 138981,
+                    "assistId": 49796,
+                    "clock": {
+                        "secs": 2760,
+                        "label": "45 +1'00"
+                    },
+                    "phase": "1",
+                    "type": "G",
+                    "description": "G"
+                },
+                {
+                    "personId": 4115,
+                    "assistId": 5865,
+                    "clock": {
+                        "secs": 4620,
+                        "label": "77'00"
+                    },
+                    "phase": "2",
+                    "type": "G",
+                    "description": "G"
+                }
+            ],
+            "id": 115938
+        },
+        {
+            "kickoff": {
+                "completeness": 3,
+                "millis": 1732374000000,
+                "label": "Sat 23 Nov 2024, 15:00 GMT"
+            },
+            "teams": [
+                {
+                    "team": {
+                        "name": "Bournemouth",
+                        "club": {
+                            "name": "Bournemouth",
+                            "shortName": "Bournemouth",
+                            "abbr": "BOU",
+                            "id": 127
+                        },
+                        "teamType": "FIRST",
+                        "shortName": "Bournemouth",
+                        "id": 127,
+                        "altIds": {
+                            "opta": "t91"
+                        }
+                    },
+                    "score": 1
+                },
+                {
+                    "team": {
+                        "name": "Brighton & Hove Albion",
+                        "club": {
+                            "name": "Brighton and Hove Albion",
+                            "shortName": "Brighton",
+                            "abbr": "BHA",
+                            "id": 131
+                        },
+                        "teamType": "FIRST",
+                        "shortName": "Brighton",
+                        "id": 131,
+                        "altIds": {
+                            "opta": "t36"
+                        }
+                    },
+                    "score": 2
+                }
+            ],
+            "ground": {
+                "name": "Vitality Stadium",
+                "city": "Bournemouth",
+                "source": "OPTA",
+                "id": 914
+            },
+            "status": "C",
+            "attendance": 11196,
+            "clock": {
+                "secs": 5880,
+                "label": "90 +8'00"
+            },
+            "goals": [
+                {
+                    "personId": 72371,
+                    "clock": {
+                        "secs": 240,
+                        "label": "04'00"
+                    },
+                    "phase": "1",
+                    "type": "G",
+                    "description": "G"
+                },
+                {
+                    "personId": 117732,
+                    "assistId": 72371,
+                    "clock": {
+                        "secs": 2940,
+                        "label": "49'00"
+                    },
+                    "phase": "2",
+                    "type": "G",
+                    "description": "G"
+                },
+                {
+                    "personId": 13706,
+                    "assistId": 16582,
+                    "clock": {
+                        "secs": 5580,
+                        "label": "90 +3'00"
+                    },
+                    "phase": "2",
+                    "type": "G",
+                    "description": "G"
+                }
+            ],
+            "id": 115939
+        }
+        ]
