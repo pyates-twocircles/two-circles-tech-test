@@ -21,7 +21,7 @@ Feel free to spend as much or as little time on the exercise as you like, as lon
 
 - To display the goal timeline filter the events array by the key type 'G', you will then need to lookup the player name from the teamLists using the personId from the event list.
 - Implement real-time updates using periodic polling (every 30 seconds).
-- To load the team badges use the url: "https://pyates-twocircles.github.io/two-circles-tech-test/images/<teamid>.png"
+- To load the team badges use the url: https://pyates-twocircles.github.io/two-circles-tech-test/images/team.id.png
 
 Feel free to improve the design and add further details if you wish and have the time. Make as many assumptions as you need, we can discuss as part of the review process. Remember this is an opportunity to show off and show what you are capable of.
 
